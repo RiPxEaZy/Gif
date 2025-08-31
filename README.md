@@ -2,6 +2,8 @@
 
 This mod was previously known as "RouteTheScene2K22"
 
+---
+
 Play **Risk of Rain 2** the way **Bruce Faulconer** intended.  
 ![The Saiyans](https://github.com/justyden/ROR2-Mod-Images/blob/main/docs/DBZ_ROR2_1.gif?raw=true)
 
@@ -42,5 +44,6 @@ A huge thanks to the legendary composers and games that inspired this mod:
 ![VegetaKick](https://github.com/RiPxEaZy/Gif/blob/main/VegetaKick.gif?raw=true)
 
 ---
+
 
 

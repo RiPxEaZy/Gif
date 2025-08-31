@@ -39,11 +39,31 @@ A huge thanks to the legendary composers and games that inspired this mod:
 
 ## 📜 Changelog
 
-**1.0.0** : Reuploaded mod from "RouteTheScene2K22", This is the new official mod location!
+**4.0.0** : A Complete Rebrand of "RouteTheScene2K22" // Now Revamped as "The Definitive DBZ / Halo Music Experience"<br>
+**3.0.5** : Bug Fixes<br>
+**3.0.4** : Bug Fixes<br>
+**3.0.3** : Bug Fixes<br>
+**3.0.2** : Bug Fixes<br>
+**3.0.1** : Bug Fixes<br>
+**3.0.0** : Added volume slider  
+**2.0.0** : Updated for *Seekers of the Storm DLC* (new songs + volume slider)  
+**1.2.5** : Replaced `moon2` tracks and adjusted volume to 0.3  
+**1.2.4** : Rearranged tracks, raised volume to 0.4, looped shorter songs  
+**1.2.3** : Added more tracks + updated stage/boss music  
+**1.2.2** : Fixed missing tracks, adjusted DLC music  
+**1.2.1** : More DLC track adjustments, volume tweaks  
+**1.2.0** : Added music for *Survivors of the Void DLC*  
+**1.1.3** : Fixed README changelog  
+**1.1.2** : Stage-specific volume tweaks + more songs  
+**1.1.1** : Expanded song pool + boss/stage rotation updates  
+**1.1.0** : Volume balance + curated tracklist  
+**1.0.0** : README/manifest update + more music variety  
+**0.1.0** : Early release  
 
 ![VegetaKick](https://github.com/RiPxEaZy/Gif/blob/main/VegetaKick.gif?raw=true)
 
 ---
+
 
 
 

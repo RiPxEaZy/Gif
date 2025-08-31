@@ -35,11 +35,11 @@ A huge thanks to the legendary composers and games that inspired this mod:
 
 ## 📜 Changelog
 
-**3.0.5** : Bug Fixes
-**3.0.4** : Bug Fixes
-**3.0.3** : Bug Fixes
-**3.0.2** : Bug Fixes
-**3.0.1** : Bug Fixes
+**3.0.5** : Bug Fixes<br>
+**3.0.4** : Bug Fixes<br>
+**3.0.3** : Bug Fixes<br>
+**3.0.2** : Bug Fixes<br>
+**3.0.1** : Bug Fixes<br>
 **3.0.0** : Added volume slider  
 **2.0.0** : Updated for *Seekers of the Storm DLC* (new songs + volume slider)  
 **1.2.5** : Replaced `moon2` tracks and adjusted volume to 0.3  
@@ -58,3 +58,4 @@ A huge thanks to the legendary composers and games that inspired this mod:
 ![VegetaKick](https://github.com/RiPxEaZy/Gif/blob/main/VegetaKick.gif?raw=true)
 
 ---
+

@@ -1,2 +1,0 @@
-# Gif
-A DBZ Gif
